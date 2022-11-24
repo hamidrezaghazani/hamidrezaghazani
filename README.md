@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is HamidReza Sanati Ghazani
+
+- 🔭 I’m currently working on Matlab , Python , C 
+- 🌱 I’m currently learning C++ 
+- 📫 How to reach me: < Telegram: @Hamid_sg >  < Email: hamidrezaghazani1382@gmail.com >
